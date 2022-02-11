@@ -1,0 +1,13 @@
+{
+  "name": "SPIEx ILI9341",
+  "apiVersion": "1.0.0",
+  "author": "KurtE",
+  "version": "0.0.1",
+  "description": "ILI9341 - HLA using SpiEx analyzer",
+  "extensions": {
+    "SPIEx ILI9341": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}

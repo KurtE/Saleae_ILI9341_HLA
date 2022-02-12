@@ -1,13 +1,15 @@
 
-  # My Extension
+  # ILI9341 HLA using SPIEx 
   
 ## Getting started
 
-1. Build your extension by updating the Python files for your needs
-2. Create a public Github repo and push your code 
-3. Update this README
-4. Open the Logic app and publish your extension
-5. Create a Github release
-6. Debug your hardware like you've never done before :)
+This prototype HLA is setup to use my extended version of the SPI analyzer
+which allows me to capture the state of the DC pin during the captures.
 
-  
+This allows the sketch to have a list of the commands of the ILI9341
+
+The SPIEx code is currently in my fork/branch of the SPI Analyzer.
+
+https://github.com/kurte/spi-analyzer/tree/alpah_spiex
+
+Currently the code is just a test.  Not sure if it will be published or not.  
